@@ -2,7 +2,7 @@
 - 👀 I’m interested in Frontend Development and UI/UX Design.
 - 🌱 I’m currently learning Web Development
 - 💞️ I’m looking to collaborate on HTML/CSS and UI Design 
-- 📫 How to reach me ... E-mail me! ;) 
+- 📫 How to reach me ... franmelopepe2@gmail.com
 
 <!---
 Francine-Pepe/Francine-Pepe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

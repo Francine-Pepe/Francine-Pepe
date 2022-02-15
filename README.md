@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Francine-Pepe :D
 - 👀 I’m interested in Frontend Development and UI/UX Design.
-- 🌱 I’m currently learning Web Development
+- 🌱 I’m currently a Frontend Developer 
 - 💞️ I’m looking to collaborate on HTML/CSS and UI Design 
 - 📫 How to reach me ... franmelopepe2@gmail.com
 
